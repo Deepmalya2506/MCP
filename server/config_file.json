@@ -1,0 +1,16 @@
+
+{
+    "mcpServers":{
+        "weather":{
+            "command":"uv",
+            "args":[
+                "run",
+                "--with", 
+                "mcp[cli]", 
+                "mcp", 
+                "run", 
+                "C:\\Users\\DEEPMALYA\\OneDrive\\Desktop\\pip_Malya\\Python\\AGENTIC\\weather_demo_mcp\\server\\weather.py"
+            ]
+        }
+    }
+}
