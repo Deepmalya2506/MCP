@@ -1,5 +1,5 @@
 from mcp.server.fastmcp import FastMCP
-from utils import make_req, format_output
+from server.utils import make_req, format_output
 from typing import Any
 
 # A MCP server comprises of 3 things - Resources, Tools, Prompts
